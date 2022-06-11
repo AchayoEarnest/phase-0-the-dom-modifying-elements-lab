@@ -5,4 +5,4 @@ const mainRemover = document.querySelector('main');
 
 const newHeader = document.createElement("h1");
         newHeader.id = 'victory';
-        newHeader.innerHTML = "EARNEST is the champion";
+        newHeader.innerHTML = "EARNEST ACHAYO is the champion";
